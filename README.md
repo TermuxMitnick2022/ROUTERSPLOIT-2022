@@ -1,6 +1,8 @@
 # ROUTERSPLOIT-2022
 
 RouterSploit é um programa Python que automatiza a maioria das tarefas associadas ao hacking de um router. Baseando-se no Metasploit, os comandos utilizados são familiares para qualquer pessoa acostumada à estrutura do Metasploit. Contém módulos de varredura e exploração.
+
+
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 COMANDOS PARA INSTALAÇÃO: 
 
